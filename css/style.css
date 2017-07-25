@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+
+
+.hero img{
+  
+    height: 500px;
+		
+}
+.hero_image {
+
+	/*background-image: url("office.jpg");*/
+overflow: hidden;	
+    /* Set a specific height */
+    height: 500px; 
+    z-index: 1;
+    position:    absolute; 
+    top: 0px; 
+    left: 0px;
+}
+
+
+.hero_image_bw{
+
+	/*background-image: url("office_bw.jpg");*/
+
+    /* Set a specific height */
+    height: 500px; 
+    position:    absolute; 
+    top: 0px; 
+    left: 0px;
+	}
